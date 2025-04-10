@@ -36,7 +36,7 @@ Soy un desarrollador con experiencia en el diseño y desarrollo de aplicaciones 
 
 Si te interesa colaborar, necesitas una solución o simplemente quieres charlar sobre desarrollo:
 
-- 💼 [LinkedIn](https://www.linkedin.com/rbherrera/
+- 💼 [LinkedIn](https://www.linkedin.com/rbherrera/)
 - ✉️ ruben.bautista (@) gmail.com
 ---
 
